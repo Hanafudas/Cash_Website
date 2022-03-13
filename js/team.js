@@ -20,7 +20,7 @@ const owners = [
 const Staff = [
     {
         "id": "229272103373766657",
-        "post": "Support",
+        "post": "Server Staff",
 		"GHURL": "",
         "InstaURL": "https://www.instagram.com/mrkezvrc/",
 		"YTURL": ""
